@@ -1,0 +1,21 @@
+#title{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.description{
+    color: blue;
+
+}
+
+p{
+    font-style: italic;
+    font-weight: 100;
+    color: green;
+}
+
+div p.example{
+    color: purple;
+    font-size: larger;
+    font-weight: bolder;
+}
