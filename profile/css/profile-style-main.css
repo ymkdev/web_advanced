@@ -1,0 +1,26 @@
+#name h2{
+    position:relative;
+    margin-top: 200px;
+    margin-left: 160px;
+    color: var(--Solid-Heading, #42446E);
+    font-family: Poppins;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 120.69% */
+    letter-spacing: -1px;
+    display: inline-block;
+}
+
+#name h2 span{
+    background: linear-gradient(to left bottom, #861657, #ffa69e, orangered);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+#name{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
