@@ -1,0 +1,37 @@
+ul{
+    list-style: none; /*점*/
+}
+
+a{
+    text-decoration: none; /*밑줄*/
+}
+
+.page{
+    margin: 0 auto; /**/
+}
+
+header ul{
+    display: flex; /*ul flex*/
+}
+
+nav{
+    display: flex; /*전체 flex*/
+    padding-top: 20px; /*위로 부터*/
+}
+
+.nav-logo{
+    margin-left: 160px; /*왼쪽에서 부터 로고*/
+    margin-right: 306px; /*로고 오른쪽 */
+}
+
+header ul li{
+    margin-right: 36px; /*각 li 오른쪽 간격*/
+}
+
+.nav-icons img{
+    margin-right: 20px; /*각 icon 오른쪽 간격*/
+}
+
+#header-interval{
+    margin-right: 150px; /*conflict*/
+}
